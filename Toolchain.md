@@ -2,7 +2,7 @@
 [TOC]
 ###### tags: `Embedded` `ARM` `STM32`
 
-# Resources
+# Resources / References
 * [Hands-On RTOS with Microcontrollers, published by Packt](https://github.com/PacktPublishing/Hands-On-RTOS-with-Microcontrollers)
 
 # Software
