@@ -2,7 +2,7 @@
 [TOC]
 ###### tags: `Embedded` `Maker` `STM32` `ARM`
 
-* [Toolchain](../Toolchain.md)
+* [Toolchain](Toolchain.md)
 
 ## Mess Data
 * [STM32F4 Discovery Board Tutorial Series (STM32F407VGT)](https://www.youtube.com/playlist?list=PLfExI9i0v1sn_lQjCFJHrDSpvZ8F2CpkA)
